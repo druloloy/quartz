@@ -1,3 +1,8 @@
+---
+title: Reports
+enableToc: false
+---
+
 These are the reports that Matomo can generate:
 
 - [Dashboard](https://matomo.org/guide/reports/dashboard/)

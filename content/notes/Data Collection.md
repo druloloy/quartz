@@ -1,3 +1,8 @@
+---
+title: Data Collection
+enableToc: false
+---
+
 Matomo tracks the following by default:
 
 - User IP address (see also: [IP anonymisation](https://matomo.org/docs/privacy-how-to/))

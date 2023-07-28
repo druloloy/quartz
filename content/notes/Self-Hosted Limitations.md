@@ -1,3 +1,8 @@
+---
+title: Self-Hosted Limitations
+enableToc: false
+---
+
 These features don't come in free for self-hosted solution.
 
 - Activity Log

@@ -1,14 +1,7 @@
-## Quick Links
-
-- [[#Minimum Requirements|Minimum Requirements]]
-- [[#Recommendations|Recommendations]]
-- [[#MySQL User Requirements|MySQL User Requirements]]
-- [[#Recommended Servers Sizing|Recommended Servers Sizing]]
-  - [[#Recommended Servers Sizing#Tracking 100,000 page views per month or less|Tracking 100,000 page views per month or less]]
-  - [[#Recommended Servers Sizing#Tracking 1 million page views per month or less|Tracking 1 million page views per month or less]]
-  - [[#Recommended Servers Sizing#Tracking 10 million page views per month or less|Tracking 10 million page views per month or less]]
-  - [[#Recommended Servers Sizing#Tracking 100 million page views per month or less|Tracking 100 million page views per month or less]]
-  - [[#Recommended Servers Sizing#Tracking more than 100 million page views per month|Tracking more than 100 million page views per month]]
+---
+title: Requirements and Recommendations
+enableToc: true
+---
 
 ## Minimum Requirements
 

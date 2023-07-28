@@ -1,14 +1,7 @@
-## Quick Links
-
-- [[#Pre-installation Process|Pre-installation Process]]
-- [[#5-Minute Installation Process|5-Minute Installation Process]]
-  - [[#5-Minute Installation Process#Welcome Page|Welcome Page]]
-  - [[#5-Minute Installation Process#System Check|System Check]]
-  - [[#5-Minute Installation Process#MySQL Database Setup|MySQL Database Setup]]
-  - [[#5-Minute Installation Process#Superuser|Superuser]]
-  - [[#5-Minute Installation Process#Set up Your First Website|Set up Your First Website]]
-  - [[#5-Minute Installation Process#Install the JavaScript Tracking Tag|Install the JavaScript Tracking Tag]]
-  - [[#5-Minute Installation Process#Congratulations!|Congratulations!]]
+---
+title: Installation
+enableToc: true
+---
 
 ## Pre-installation Process
 

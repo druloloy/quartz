@@ -1,15 +1,7 @@
-## Quick Links
-
-- [[#Web Analytics Features|Web Analytics Features]]
-- [[#Premium Features|Premium Features]]
-- [[#Administration Options|Administration Options]]
-- [[#More Goodness!|More Goodness!]]
-- [[#Tracking API|Tracking API]]
-- [[#Data Export and APIs|Data Export and APIs]]
-- [[#Log Analytics Import and Analyse your Server Logs]]
-- [[#User Privacy|User Privacy]]
-- [[#Community Contributions|Community Contributions]]
-- [[#Help and Support|Help and Support]]
+---
+title: Features
+enableToc: true
+---
 
 ## Web Analytics Features
 

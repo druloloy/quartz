@@ -1,5 +1,5 @@
 ---
-title: "Matomo as a Platform"
+title: Matomo as a Platform
 enableToc: false
 ---
 

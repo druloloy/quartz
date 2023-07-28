@@ -1,3 +1,8 @@
+---
+title: Pros and Cons
+enableToc: false
+---
+
 **Pros**
 
 1. **Accessibility**: Matomo is available on both Android and iOS platforms, making it easily accessible for users on various devices.

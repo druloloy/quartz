@@ -1,3 +1,8 @@
+---
+title: Pricing
+enableToc: false
+---
+
 Matomo offfers **19 EU or 21 USD per month** when hosted on their servers (Cloud). Matomo can also be installed on our servers for free (On-Premise), however we'll have limited features compared to Cloud-hosted.
 
 See the [[Self-Hosted Limitations]]
